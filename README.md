@@ -44,10 +44,10 @@ Hi there, I'm **Tamara Siansanda**, a **Software Engineering student** 🚀 from
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a CSA at Nixxe Solutions.
+- 👨🏽‍💻 I’m currently studying at microverse.
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 🤔 My interests are Developing Major Projects and creating Apps
+- 💼 I’m pursuing a Bachelor's degree in Full Stack Development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [tamarasia18@gmail.com](mailto:tamarasiansanda18@gmail.com).
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
