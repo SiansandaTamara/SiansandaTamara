@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 <h3 title="hehehe"> Hey 👋, I'm Tammy!</h3>
 
-👩‍ Currently, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork.
-
-
-
 
 <a href="https://www.linkedin.com/in/tamara-siansanda-95642722a">
   <img align="left" alt="tamara's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -37,6 +33,11 @@ Here are some ideas to get you started:
 <br />
 
 Hi there, I'm **Tamara Siansanda**, a **Software Engineering student** 🚀 from Lusaka, Zambia.
+
+👩‍ Currently, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork.
+
+
+
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@SiansandaTamara](https://github.com/SianasandaTamara), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
