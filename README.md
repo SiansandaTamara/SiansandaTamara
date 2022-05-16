@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 <h3 title="hehehe"> Hey 👋, I'm Tammy!</h3>
 
+👩‍ Currently, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork.
+
+
+
+
 <a href="https://www.linkedin.com/in/tamara-siansanda-95642722a">
   <img align="left" alt="tamara's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
